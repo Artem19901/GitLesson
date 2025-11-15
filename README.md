@@ -1,6 +1,6 @@
-#This an h1 tag
-##This an h2 tag
-######This an h6 tag
+#This is an h1 tag
+##This is an h2 tag
+######This is an h6 tag
 
 **This text will be bold**
 *This text will be italic*
