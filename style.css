@@ -1,26 +1,27 @@
-.abth1{
-	color: red;
-}
-.abth1:hover{
-	color: green;
-}
-
-.abtp{
-	color: red;
-}
-.abtp:hover{
-	color: green;
-}
-
-.container{
-	justify-items: center;
-}
-
-body{
-background: black;
-}
-
 *{
 	margin: 0;
 	padding: 0;
+}
+
+body{
+	background-color: #90caf9;
+	text-align: center;
+}
+
+input{
+    font-size: 3rem;
+    margin-top: 2rem;
+}
+
+#result{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    font-size: 2rem;
+    background: #fff;
+    margin: 2rem auto;
+    width: 30rem;
+    padding: 1rem;
+    border-radius: 1rem;
 }
